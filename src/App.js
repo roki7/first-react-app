@@ -8,6 +8,7 @@ class App extends Component {
         hello world
         <Test c="blue" />
         <Test c="skyblue" />
+        <Test c="green" />
        </div>
     );
   }
